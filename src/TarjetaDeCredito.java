@@ -30,7 +30,8 @@ public class TarjetaDeCredito {
         return saldo;
     }
 
-    public List<Compra> getListadeCompras() {
+    public List<Compra> getListaDeCompras() {
         return listadeCompras;
     }
+
 }
